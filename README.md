@@ -5,6 +5,10 @@
 
 ---
 
+![Mapa de Áreas Prioritarias para la Conservación del Oso Andino](mapa_areas_prioritarias.png)
+
+---
+
 ## Descripción
 
 Este repositorio contiene el análisis de priorización espacial para la conservación del **Oso Andino (*Tremarctos ornatus*)** en Colombia. Se utiliza el paquete [`prioritizr`](https://prioritizr.net/) en R para resolver un problema de optimización tipo **Minimum Set Problem**: seleccionar las celdas de menor costo de oportunidad que cumplan metas de representación basadas en la **Población Mínima Viable (PMV = 2,500 individuos)**.
