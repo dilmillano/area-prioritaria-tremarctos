@@ -1,0 +1,4 @@
+"feature","total_celdas","celdas_seleccionadas","area_total_km2","area_seleccionada_km2","target_pct","representacion_pct","cumple_target"
+"habitat_oso",23833,12504,95332,50016,52.4482859900138,52.4650694415307,TRUE
+"paramos",6119,6119,24476,24476,75,100,TRUE
+"calidad_habitat",23738,12439,94952,49756,30,57.4275862611545,TRUE
